@@ -1,0 +1,22 @@
+{
+  "name": "angular-gmap-async",
+  "version": "0.1.0",
+  "authors": [
+    "Rémi Becheras <rbecheras@sirap.fr>"
+  ],
+  "description": "A javascript module to load google maps script asynchronously&#34;",
+  "main": "angular-gmap-async.js",
+  "keywords": [
+    "bower",
+    "component",
+    "javascript"," google maps"," async"," angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
