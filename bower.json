@@ -4,12 +4,12 @@
   "authors": [
     "Rémi Becheras <rbecheras@sirap.fr>"
   ],
-  "description": "A javascript module to load google maps script asynchronously&#34;",
+  "description": "An angular module that provide a directive to load google-map script asynchronously",
   "main": "angular-gmap-async.js",
   "keywords": [
     "bower",
     "component",
-    "javascript"," google maps"," async"," angular"
+    "angular"," javascript"," google maps"," async"
   ],
   "license": "MIT",
   "ignore": [

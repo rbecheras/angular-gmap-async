@@ -1,6 +1,6 @@
 # angular-gmap-async
 
-A javascript module to load google maps script asynchronously&#34;
+An angular module that provide a directive to load google-map script asynchronously
 
 ## LICENSE
 
